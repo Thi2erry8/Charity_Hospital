@@ -52,7 +52,7 @@ preloader
   background-color: hsl(182, 100%, 35%);
   display: grid;
   place-items: center;
-  z-index: 11;
+  z-index: 100;
   transition: 0.25s ease;
 }
 .preloader.loaded{
